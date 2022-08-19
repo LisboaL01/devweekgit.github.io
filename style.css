@@ -56,7 +56,10 @@
     text-align: center;
 }
 
-/* .contact-info { border-bottom: 2px solid #1B2631; } */
+.contact-info { 
+    border-bottom: 2px solid #eeeeee; 
+} 
+
 .left-title {
     color: #eeeeee;
     font-size: 20px;
@@ -100,13 +103,19 @@
 
 .right-title {
     color: #eeeeee;
+    text-align: left
 }
 
 .gap {
     padding-bottom: 2rem;
 }
 .about-me-contents {
-    font-size: 18px;
+    font-size: 15px;
+    color: #eeeeee;
+}
+
+.about-title {
+    font-size: 20px;
     color: #eeeeee;
 }
 
